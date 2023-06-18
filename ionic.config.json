@@ -1,0 +1,8 @@
+{
+  "name": "STF Maps App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "a5ecfcdf"
+}
